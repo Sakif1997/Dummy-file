@@ -1,0 +1,14 @@
+## Target/Goals
+
+Test Some pages of Daraz website , and test daraz login page
+the following tasks:
+1. Set Environment
+i) pom.xml [dependencies set]
+ii) BrowserSetup[create separate package ]
+
+2. Page Object Model: create methods, using methods for separate page and create test cases of those pages
+a) Methods
+b) Utitilites[Page objects]
+c) TestCase [Particular Pages ]
+
+3. Create Allure report [testing result]
